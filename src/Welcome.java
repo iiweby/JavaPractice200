@@ -5,5 +5,6 @@ public class Welcome {
         int n = 7;
         int m = 5;
         System.out.println(m + n);
+
     }
 }
