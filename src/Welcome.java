@@ -2,9 +2,10 @@
 
 public class Welcome {
     public static void main(String[] args) throws Exception {
-        int n = 7;
-        int m = 5;
-        System.out.println(m + n);
+        double n = 7.3;
+        double m = 59999999;
+        System.currentTimeMillis();
+        System.out.println(n + m);
 
     }
 }
